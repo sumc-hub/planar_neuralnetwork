@@ -10,8 +10,10 @@ This project serves as my first attempt at implementing a neural network model w
 - LICENSE: License file specifying the terms of use for the project.
 # Usage
 1. Clone the repository to your local machine:
-   ''' git clone https://github.com/your-username/planar-data-classification.git '''
-2. Open and run the main.ipynb notebook in a Jupyter environment to interact with the code and experiment with the model.
+   ''' python
+   git clone https://github.com/your-username/planar-data-classification.git
+   '''
+3. Open and run the main.ipynb notebook in a Jupyter environment to interact with the code and experiment with the model.
 ## Attribution
 This project was completed as part of the Neural Networks and Deep Learning course on Coursera. The course materials and guidance provided by the instructors were instrumental in understanding and implementing the neural network model.
 ## License
